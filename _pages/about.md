@@ -20,6 +20,7 @@ My research interests lie in the field of computer security, where I specialize 
 
 ## Preprints
 
+- Hulin Wang, Zion Leonahenahe Basque, **Jie Hu**, Ati Priya Bajaj, Yibo Liu, Samuel Zhu, Giorgi Kobakhia, Nikhil Chapre, Will Rosenberg, Siddharth Mishra, Aditya Maheshbhai Gabani, Moritz Schloegel, Adam Doupé, Yan Shoshitaishvili, Ruoyu Wang, and Tiffany Bao, [Root-Cause-Driven Automated Vulnerability Repair](/files/kumushi.pdf), arXiv, 2026.
 - Ashwin Sudhir, Zion Leonahenahe Basque, Wil Gibbs, Ati Priya Bajaj, Pulkit Singh Singaria, Mitchell Zakocs, **Jie Hu**, Moritz Schloegel, Tiffany Bao, Adam Doupe, Yan Shoshitaishvili, Ruoyu Wang, [Pushan: Trace-Free Deobfuscation of Virtualization-Obfuscated Binaries](/files/pushan.pdf), arXiv, 2026.
 - **Jie Hu**, Qian Zhang, and Heng Yin, [Augmenting Greybox Fuzzing with Generative AI](/files/chatfuzz.pdf), arXiv, 2023.
 
