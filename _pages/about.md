@@ -12,7 +12,7 @@ My research interests lie in the field of computer security, where I specialize 
 ## Publications
 
 - [**S&P'26**] Yibo Liu, Zion Leonahenahe Basque, Arvind S Raj, Chavin Udomwongsa, Chang Zhu, **Jie Hu**, Changyu Zhao, Fangzhou Dong, Adam Doupé, Tiffany Bao, Yan Shoshitaishvili, and Ruoyu Wang, [Oxidizer: Toward Concise and High-fidelity Rust Decompilation](/files/oxidizer-oakland2026.pdf), IEEE Symposium on Security and Privacy, May 2026.
-- [**SecDev'26**] James Mattei, Andrew Lin, Jasper Geer, **Jie Hu**, Moritz Schloegel, Tiffany Bao, and Daniel Votipka, SoK: A Modularized Framework for Symbolic Execution and Application for Usable Tool Design, IEEE Secure Development Conference, 2026. (to appear)
+- [**SecDev'26**] James Mattei, Andrew Lin, Jasper Geer, **Jie Hu**, Moritz Schloegel, Tiffany Bao, and Daniel Votipka, [SoK: A Modularized Framework for Symbolic Execution and Application for Usable Tool Design](/files/sesok.pdf), IEEE Secure Development Conference, 2026. (to appear)
 - [**ISSTA'24**] Yuxin Qiu, **Jie Hu**, Qian Zhang, and Heng Yin, [Calico: Automated Knowledge Calibration and Diagnosis for Elevating AI Mastery in Code Tasks](/files/calico.pdf), ACM SIGSOFT International Symposium on Software Testing and Analysis, September 2024.
 - [**USENIX'24**] Zhenxiao Qi, **Jie Hu**, Zhaoqi Xiao, and Heng Yin, [SymFit: Making the Common (Concrete) Case Fast for Binary-Code Concolic Execution](/files/usenixsecurity24-qi.pdf), 33rd USENIX Security Symposium, August 2024.
 - [**ICSE'24**] **Jie Hu**, Yue Duan, and Heng Yin, [Marco: A Stochastic and Asynchronous Concolic Explorer](/files/Marco-icse24.pdf), 46th International Conference on Software Engineering, April 2024. \[[GitHub](https://github.com/jhu066/Marco)\]
