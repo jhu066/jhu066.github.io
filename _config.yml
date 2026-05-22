@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Jie Hu"
   pronouns         :
-  bio              : "Postdoctoral Research Scholar, Arizona State University"
+  bio              : "Postdoctoral Research Scholar<br />Arizona State University"
   location         : "Tempe, AZ"
-  employer         : "Arizona State University"
+  # employer         : "Arizona State University"
   uri              :
   email            : "jiehu12@asu.edu"
 
