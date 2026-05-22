@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie in the field of computer security, where I specialize in developing advanced program analysis techniques (including concolic execution, program fuzz testing, and hybrid fuzzing) for uncovering vulnerabilities within systems and software. I am a postdoctoral researcher at Arizona State University, working with [Prof. Tiffany Bao](https://search.asu.edu/profile/3322259). I obtained my Ph.D in Computer Science from University of California, Riverside in 2024, where I was advised by [Prof. Heng Yin](https://www.cs.ucr.edu/~heng/). \[[CV](/files/cv.pdf)\]
+My research focuses on making software more secure through automated program analysis, spanning greybox fuzzing, concolic execution, binary analysis, and large language models to systematically discover and repair vulnerabilities in real-world systems. I am a postdoctoral researcher at Arizona State University, working with [Prof. Tiffany Bao](https://search.asu.edu/profile/3322259). I received my Ph.D. in Computer Science from the University of California, Riverside in 2024, advised by [Prof. Heng Yin](https://www.cs.ucr.edu/~heng/).
 
 ## Publications
 
