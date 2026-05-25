@@ -43,6 +43,7 @@ My research focuses on making software more secure through automated program ana
 
 *Program Committee:*
 - International Symposium on Research in Attacks, Intrusions and Defenses (RAID) 2026
+- Workshop on Software Understanding and Reverse Engineering (SURE) 2026
 - Network and Distributed System Security Symposium (NDSS) 2026 (Poster)
 
 *Journal Reviewer:*
